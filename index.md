@@ -5,3 +5,4 @@ layout: home
 
 Tryna something new
 
+[Read Thus](_posts/blogtest.md)
