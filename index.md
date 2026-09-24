@@ -5,4 +5,6 @@ layout: home
 
 Tryna something new
 
-[Read The Blog](https://turning20w-hub.github.io/VrushStuff/sample.html)
+# Blog 
+
+[Read the Blog Here. Click](https://turning20w-hub.github.io/VrushStuff/sample.html)
