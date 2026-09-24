@@ -8,3 +8,5 @@ Tryna something new
 # Blog 
 
 [Read the Blog Here. Click](https://turning20w-hub.github.io/VrushStuff/sample.html)
+
+# [Blog](https://turning20w-hub.github.io/VrushStuff/2026/09/23/test-8.html)
